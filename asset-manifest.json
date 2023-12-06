@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactLivePathFindingVisualiser/static/css/main.187a1130.css",
+    "main.js": "/ReactLivePathFindingVisualiser/static/js/main.5957493c.js",
+    "index.html": "/ReactLivePathFindingVisualiser/index.html",
+    "main.187a1130.css.map": "/ReactLivePathFindingVisualiser/static/css/main.187a1130.css.map",
+    "main.5957493c.js.map": "/ReactLivePathFindingVisualiser/static/js/main.5957493c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.187a1130.css",
+    "static/js/main.5957493c.js"
+  ]
+}
